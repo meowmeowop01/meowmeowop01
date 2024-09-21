@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meowmeowop01
+- 👋 Hi, I’m @meowmeowop01 new to github.
 - 👀 I’m interested in coding, watching anime and k-drama, and eating.
 - 🌱 I’m currently learning Front-End and BackEnd
 - 💞️ I’m looking to collaborate on any project related to web development. 
